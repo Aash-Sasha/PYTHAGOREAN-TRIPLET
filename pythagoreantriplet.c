@@ -24,7 +24,7 @@ void main()
 	if (s3>s1)
 		s1 = c, s2 = a, s3 = b; 
 
-	printf("%d \n", s1);
+	printf("greatest number is %d \n", s1);
 	
 	m1 = s1*s1;
 	m2 = s2*s2;
@@ -33,11 +33,11 @@ void main()
 
 	if (m1 == m2 + m3)
 	{
-		printf("y");
+		printf("yes pythagorean triplet/right triangle");
 	}
 	else
 	{
-		printf("n");
+		printf("not pythagorean triplet/right triangle");
 	}
 	
 	_getch();

@@ -2,7 +2,7 @@
 #include <conio.h>
 
 //creator aash
-//facebook page
+//facebook page=https://www.facebook.com/notes/stupid-programming-discussion/pythagorean-triplet/221015204984095
 //version=1.0
 //creator will add comment for proper explaination soon.
 
